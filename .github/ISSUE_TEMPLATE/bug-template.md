@@ -2,7 +2,7 @@
 name: 버그 리포트
 about: 버그 보고
 title: "[BUG] "
-labels: ":bug: bug"
+labels: ''
 assignees: ''
 
 ---
